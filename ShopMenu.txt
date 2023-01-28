@@ -1,0 +1,17 @@
+
+-------------*------------------------------Menu-Card---------------------*-----------------------------
+
+       Pizaa                 Price                    Coffee                    Price  
+ 
+   1] Tomoto Pizza            100/-              5] Normal Coffee               50/-
+
+   2] Corn Pizza              130/-              6] Crush Coffee                80/-
+   
+   3] Extra-Chiz Pizza        180/-              7] Extra-Crush                 100/-
+
+   4] Special Pizza           200/-
+
+---------------------------------------- Buy Now ---------------------------------------------------
+
+Select Option : [Hint :1,2,3,4,5,6,7]
+        

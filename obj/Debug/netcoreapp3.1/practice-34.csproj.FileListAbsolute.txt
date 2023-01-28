@@ -1,0 +1,14 @@
+C:\Users\MAHESH\source\repos\practice-34\practice-34\bin\Debug\netcoreapp3.1\practice-34.exe
+C:\Users\MAHESH\source\repos\practice-34\practice-34\bin\Debug\netcoreapp3.1\practice-34.deps.json
+C:\Users\MAHESH\source\repos\practice-34\practice-34\bin\Debug\netcoreapp3.1\practice-34.runtimeconfig.json
+C:\Users\MAHESH\source\repos\practice-34\practice-34\bin\Debug\netcoreapp3.1\practice-34.runtimeconfig.dev.json
+C:\Users\MAHESH\source\repos\practice-34\practice-34\bin\Debug\netcoreapp3.1\practice-34.dll
+C:\Users\MAHESH\source\repos\practice-34\practice-34\bin\Debug\netcoreapp3.1\practice-34.pdb
+C:\Users\MAHESH\source\repos\practice-34\practice-34\obj\Debug\netcoreapp3.1\practice-34.csproj.AssemblyReference.cache
+C:\Users\MAHESH\source\repos\practice-34\practice-34\obj\Debug\netcoreapp3.1\practice-34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHESH\source\repos\practice-34\practice-34\obj\Debug\netcoreapp3.1\practice-34.AssemblyInfoInputs.cache
+C:\Users\MAHESH\source\repos\practice-34\practice-34\obj\Debug\netcoreapp3.1\practice-34.AssemblyInfo.cs
+C:\Users\MAHESH\source\repos\practice-34\practice-34\obj\Debug\netcoreapp3.1\practice-34.csproj.CoreCompileInputs.cache
+C:\Users\MAHESH\source\repos\practice-34\practice-34\obj\Debug\netcoreapp3.1\practice-34.dll
+C:\Users\MAHESH\source\repos\practice-34\practice-34\obj\Debug\netcoreapp3.1\practice-34.pdb
+C:\Users\MAHESH\source\repos\practice-34\practice-34\obj\Debug\netcoreapp3.1\practice-34.genruntimeconfig.cache
